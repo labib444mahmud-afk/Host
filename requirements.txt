@@ -1,0 +1,2 @@
+pyTelegramBotAPI>=4.29,<5
+psutil>=6,<7

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+l.env
+data/*.json
+data/*.tmp
+deployed_bots/
+logs/
+tmp/
