@@ -1,0 +1,12 @@
+.env
+l.env
+*.env
+__pycache__/
+*.py[cod]
+.venv/
+data/
+logs/
+deployed_bots/
+*.db
+*.sqlite
+*.sqlite3
